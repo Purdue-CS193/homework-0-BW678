@@ -1,8 +1,8 @@
 # Blake's First CS193 Homework
 
--Terminal Commands
--Linux
--Learning to use github
+- Terminal Commands
+- Linux
+- Learning to use github
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
